@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  h1 {
+  
+    color: rgb(167, 1, 1);
+    text-align: center;
+    margin: 20px 0;
+  
+}
+  
+  div {
+   
+    display: flex;
+    flex-flow: row wrap;
+  
+    justify-content: space-around;
+  }
+  
+  img {
+    
+    width: 350px;
+    margin: 5px;
+    padding: 10px;
+ 
+}
+  
+  .dog-1 {
+   
+    border: 5px solid rgb(119, 0, 255);
+  }
+  
+  .dog-2 {
+    
+    border: 10px dotted rgb(80, 255, 168);
+  }
+  
+  .dog-3 {
+   
+    border: 15px dashed rgb(236, 73, 73);
+  }
+  
+  .dog-4 {
+  
+    border: 20px ridge rgb(233, 0, 136);
+  }
+  
+  .dog-5 {
+   
+    border: 25px double rgb(253, 226, 73);
+  }

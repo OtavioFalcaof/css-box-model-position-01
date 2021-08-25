@@ -1,0 +1,27 @@
+img {
+    width: 450px;
+    opacity: 0.7;
+  }
+  
+  .esp {
+    /* float: right; */
+    border: 3px solid #aa0c07;
+  }
+  
+  .esp img {
+    border: 4px solid #f7df05;
+  }
+  
+  .coliseu-roma {
+    /* float: left; */
+    border: 3px solid #171525;
+  }
+  
+  .coliseu-roma img {
+    border: 4px solid #20a506;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+  }
